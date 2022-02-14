@@ -1,6 +1,6 @@
-baseurl = "https://kayleen.sybrandt.com"
-title = "Black & Light"
-author = "David Hamp-Gonsalves"
+baseurl = "https://sybrandt.com/kayleen/"
+title = "In Loving Memory of Kayleen Sybrandt"
+author = "Justin Sybrandt"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
@@ -12,13 +12,13 @@ pygmentscodefences  = true
   sitename = "Black & Light"
   disableWebFonts = false
 
-[[menu.main]]
-    name = "About"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
-[[menu.main]]
-    name = "Projects"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
-[[menu.main]]
-    name = "Resume"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+# [[menu.main]]
+#     name = "About"
+#     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+# [[menu.main]]
+#     name = "Projects"
+#     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+# [[menu.main]]
+#     name = "Resume"
+#     url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
 
