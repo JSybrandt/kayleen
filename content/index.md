@@ -1,6 +1,6 @@
-# 1943 - 2022
+1943 - 2022
 
-## By: Justin Sybrandt
+By: Justin Sybrandt
 
 My best memories are of playing games with Kayleen as a kid. While we were
 young, she would frequently come to watch my siblings and me. Our time was
