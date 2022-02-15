@@ -3,7 +3,7 @@ title = "Kayleen Sybrandt"
 author = "Justin Sybrandt"
 canonifyurls = true
 languagecode = "en"
-theme = "black-and-light"
+theme = ["black-and-light", "hugo-shortcode-gallery"]
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
