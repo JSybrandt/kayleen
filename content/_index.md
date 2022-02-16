@@ -3,6 +3,9 @@ author = "Justin Sybrandt"
 date = "2022-02-15"
 +++
 
+{{< image-gallery gallery_dir="index/album_1" >}}
+
+
 My best memories are of playing games with Kayleen as a kid. While we were
 young, she would frequently come to watch my siblings and me. Our time was
 filled with board games, cards, paperdolls, and the stories the four of us would

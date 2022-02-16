@@ -9,6 +9,8 @@ description = "A memorial page for Kayleen Vacco Sybrandt"
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
+assetDir = "static"
+
 [params]
   sitename = "In Loving Memory of Kayleen Vacco Sybrandt"
   description = "1943-2022"
