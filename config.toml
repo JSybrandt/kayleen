@@ -10,6 +10,7 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 assetDir = "static"
+timeout = "120s"
 
 [params]
   sitename = "In Loving Memory of Kayleen Vacco Sybrandt"
