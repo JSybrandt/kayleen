@@ -13,7 +13,7 @@ assetDir = "static"
 timeout = "120s"
 
 [params]
-  sitename = "In Loving Memory of Kayleen Vacco Sybrandt"
+  sitename = "In Memory of Kayleen Vacco Sybrandt"
   description = "1943-2022"
   disableWebFonts = false
 
