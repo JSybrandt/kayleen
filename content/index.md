@@ -1,4 +1,3 @@
-1943 - 2022
 
 By: Justin Sybrandt
 

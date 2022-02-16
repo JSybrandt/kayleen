@@ -9,7 +9,8 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "In Loving Memory of Kayleen Sybrandt"
+  sitename = "In Loving Memory of Kayleen Vacco Sybrandt"
+  description = "1943-2022"
   disableWebFonts = false
 
 # [[menu.main]]
