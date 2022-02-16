@@ -1,5 +1,7 @@
-
-By: Justin Sybrandt
++++
+date = "2022-02-15"
+author = "Justin Sybrandt"
++++
 
 My best memories are of playing games with Kayleen as a kid. While we were
 young, she would frequently come to watch my siblings and me. Our time was
