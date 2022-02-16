@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+
+<section id=content>
+
+  {{ if .Params.author }}
+    <p id=author><i> By: {{ .Params.author }} </i></p>
+  {{ end }}
+
+  {{ if .Params.date }}
+    <div id=date>
+      {{ .Date.Format (.Site.Params.dateform | default "January 2006") }}
+    </div>
+  {{ end }}
+
+  <div class="entry-content">
+    {{ .Content }}
+  </div>
+
+</section>
+
+{{ partial "footer.html" . }}
+
