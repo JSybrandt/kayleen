@@ -1,6 +1,6 @@
 +++
-date = "2022-02-15"
 author = "Justin Sybrandt"
+date = "2022-02-15"
 +++
 
 My best memories are of playing games with Kayleen as a kid. While we were

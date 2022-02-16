@@ -1,9 +1,10 @@
 baseurl = "https://sybrandt.com/kayleen/"
-title = "Kayleen Sybrandt"
+title = "Kayleen Vacco Sybrandt"
 author = "Justin Sybrandt"
 canonifyurls = true
 languagecode = "en"
 theme = ["black-and-light", "hugo-shortcode-gallery"]
+description = "A memorial page for Kayleen Vacco Sybrandt"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
