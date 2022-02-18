@@ -215,8 +215,6 @@
   ul li {
     list-style-type: none;
   }
-  ul li:before {
-  }
 
   #nav ul li:before, .posts_listing li:before {
     content:'';
@@ -272,7 +270,6 @@
   }
 
   #nav ul {
-    display: table;
     margin: 8px auto 0 auto;
   }
 
@@ -280,7 +277,10 @@
     list-style-type:none;
     display:table-cell;
     font-size:20px;
-    padding: 0 20px;
+    padding: 0 10px;
+    display: inline-block;
+    whitespace: nowrap;
+    font-size:22px;
   }
 
   #links {
