@@ -20,6 +20,12 @@ timeout = "120s"
 [[menu.main]]
     name = "Justin's Message"
     url  = "/"
+    weight = 1
 [[menu.main]]
     name = "Larry's Message"
     url  = "/larry"
+    weight = 2
+[[menu.main]]
+    name = "Jennifer's Message"
+    url  = "/jennifer"
+    weight = 3
